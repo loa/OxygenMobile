@@ -33,7 +33,9 @@ Following pages to be optimized:
 
          Recommendations
         -----------------
-I will soon release a PunBB extensions that allow a user to specify a style if the user arrives to the forum with a mobile device. This way the user doesn't need to change his/her style everytime (s)he changes device type.
+For better usability install mobileswitch@https://github.com/Loa/mobileswitch.
+
+I will soon release a more extensive PunBB extensions that allow a user to specify a specific style for their mobile devices.
 
          Copyright
         ------------
