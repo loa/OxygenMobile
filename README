@@ -6,6 +6,31 @@
         --------------
  - Running PunBB installation http://punbb.informer.com/
 
+         Continuously tested with following devices
+        --------------------------------------------
+ - HTC Magic with Android 2.2
+ - Motorola Droid with Android 2.1
+ - Sony Ericsson Xperia X10 mini pro with Android 2.1
+ - Iphone 3
+
+         What it does right now
+        ------------------------
+Index:
+- Page scaled
+- Big touch surfaces with js
+
+Viewforum:
+- Page scaled
+- Big touch surfaces with js
+
+         Upcoming changes
+        ------------------
+Following pages to be optimized:
+- Viewtopic
+- Post
+- Login
+- Search (both results and search page)
+
          Recommendations
         -----------------
 I will soon release a PunBB extensions that allow a user to specify a style if the user arrives to the forum with a mobile device. This way the user doesn't need to change his/her style everytime (s)he changes device type.
