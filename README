@@ -1,0 +1,16 @@
+        =====================
+         OxygenMobile Readme
+        =====================
+
+         Requirements
+        --------------
+ - Running PunBB installation http://punbb.informer.com/
+
+         Recommendations
+        -----------------
+I will soon release a PunBB extensions that allow a user to specify a style if the user arrives to the forum with a mobile device. This way the user doesn't need to change his/her style everytime (s)he changes device type.
+
+         Copyright
+        ------------
+
+OxygenMobile is released beneath the same license as the original files from PunBB. PunBB is released under The GNU General Public License version 2 or higher. In short terms this means that PunBB is free to download, use, distribute, modify and even charge for. However, if any of these modifications are released to the public, that code must also be released under the same license as PunBB.
