@@ -93,6 +93,7 @@ li[class="info-posts"], li[class="info-topics"],
 li[class="info-replies"], li[class="info-views"],
 div.main-subhead,
 .brd .main-content .main-item .hn small,
+.brd .main-content .main-item .item-nav,
 .brd .main-head .options {
     display: none;
 }
