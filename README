@@ -23,10 +23,12 @@ Viewforum:
 - Page scaled
 - Big touch surfaces with js
 
+Viewtopic:
+- Page scaled
+
          Upcoming changes
         ------------------
 Following pages to be optimized:
-- Viewtopic
 - Post
 - Login
 - Search (both results and search page)
